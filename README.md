@@ -32,7 +32,7 @@ Project link: https://github.com/Team19-WebP
 This was a project for the Introduction of Web development class, the assignment was to develop a simple web app for an association. 
 
 # Working on:
-<p align="center"> ![lonely-desert](https://github.com/FedericoMenegoz/FedericoMenegoz/assets/80751897/268246e3-d8a5-400c-aefb-273caacd229c)
+<p align="center"> <img src="https://github.com/FedericoMenegoz/FedericoMenegoz/assets/80751897/268246e3-d8a5-400c-aefb-273caacd229c">
  </p>
 
 <p>I am currently studying hard to finish the bachelor course in computer science, but I am looking forward to contributing to the open source community. I'm eager to roll up my sleeves and get my hands greasy, so I really hope to start putting new projects here very soon!</p>
