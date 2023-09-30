@@ -1,6 +1,6 @@
 # Hi there 👋 it's me Fede! 
 I'm a passionate computer science student in my third year of Bachelor's studies here in Trento🇮🇹🐻🏔️. 
-# I have been coding and in the process of learning the basic of👨🏻‍💻:
+# I have been coding with👨🏻‍💻:
 ![Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,js,html,css,r,bash,cmake)
 # Databases💾
 ![DB](https://skillicons.dev/icons?i=mongo,postgres)<img src="https://db.apache.org/derby/images/final_logowithtext.png" height="50">
