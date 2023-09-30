@@ -34,7 +34,7 @@ This was a project for the Introduction of Web development class, the assignment
 <p align="center"> <img src="https://github.com/FedericoMenegoz/FedericoMenegoz/assets/80751897/268246e3-d8a5-400c-aefb-273caacd229c">
  </p>
 
-<p>I am currently studying hard to finish the bachelor course in computer science, but I am looking forward to contributing to the open source community. I'm eager to roll up my sleeves and get my hands greasy, so I really hope to start putting new projects here very soon!</p>
+<p>I'm currently working hard to complete my Bachelor's degree in computer science. At the same time, I look forward to contributing to some open-source projects and becoming a part of this vast community!</p>
 
 # Other 💃🚵🤟🎧:
 ![other](https://skillicons.dev/icons?i=ableton)
