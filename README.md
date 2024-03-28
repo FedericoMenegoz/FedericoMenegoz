@@ -12,6 +12,9 @@ I'm a passionate computer science student in my third year of Bachelor's studies
 ![Tools](https://skillicons.dev/icons?i=postman,git,vscode)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50">
 
 # Class projects:
+## Robotic Lib 🦾
+As a class project, we collaborated to construct a library defining the rules for AI interaction within a 2D environment. Leveraging this library, our team developed an AI tasked with reaching a goal using reinforcement learning (specifically Q-learning). Additionally, utilizing the Bevy game engine, we created a user interface to visualize and interact with the AI.
+
 ## Spottythings 🔎
 Project link: https://github.com/IS22-TEAM-25
 
@@ -33,8 +36,6 @@ This was a project for the Introduction of Web development class, the assignment
 # Working on:
 <p align="center"> <img src="https://github.com/FedericoMenegoz/FedericoMenegoz/assets/80751897/268246e3-d8a5-400c-aefb-273caacd229c">
  </p>
-
-<p>I'm currently working hard to complete my Bachelor's degree in computer science. At the same time, I look forward to contributing to some open-source projects and becoming a part of this vast community!</p>
 
 # Other 💃🚵🤟🎧:
 ![other](https://skillicons.dev/icons?i=ableton)
