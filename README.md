@@ -11,31 +11,8 @@ I'm a passionate computer science student in my third year of Bachelor's studies
 # Tools🛠️
 ![Tools](https://skillicons.dev/icons?i=postman,git,vscode)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50">
 
-# Class projects:
-## Robotic Lib 🦾
-As a class project, we collaborated to construct a library defining the rules for AI interaction within a 2D environment. Leveraging this library, our team developed an AI tasked with reaching a goal using reinforcement learning (specifically Q-learning). Additionally, utilizing the Bevy game engine, we created a user interface to visualize and interact with the AI.
-
-## Spottythings 🔎
-Project link: https://github.com/IS22-TEAM-25
-
-This is my first ever class group project we went through the different phases of software engineering:
-- Planning of the project
-- Requirement Analysis
-- Designing the interface 
-- Implementing the web application
-- Testing the web application
-- Deployment
-
-The final result (implementation wise) is probably a bit messy as we didn't really know any of the technology we used at the time, but it was fun and it was a great opportunity to learn and work with others.
-
-## Tum4world 🌍
-Project link: https://github.com/Team19-WebP
-
-This was a project for the Introduction of Web development class, the assignment was to develop a simple web app for an association. 
-
 # Working on:
-<p align="center"> <img src="https://github.com/FedericoMenegoz/FedericoMenegoz/assets/80751897/268246e3-d8a5-400c-aefb-273caacd229c">
- </p>
+- the perception system for E-Agle Formula Student Team ( https://github.com/StefanoGenettiUniTN/eagle-driverless-orbSLAM )
 
 # Other 💃🚵🤟🎧:
 ![other](https://skillicons.dev/icons?i=ableton)
