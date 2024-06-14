@@ -11,8 +11,6 @@ I'm a passionate computer science student in my third year of Bachelor's studies
 # Tools🛠️
 ![Tools](https://skillicons.dev/icons?i=postman,git,vscode)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50">
 
-# Working on:
-- the perception system for E-Agle Formula Student Team ( https://github.com/StefanoGenettiUniTN/eagle-driverless-orbSLAM )
 
 # Other 💃🚵🤟🎧:
 ![other](https://skillicons.dev/icons?i=ableton)
